@@ -1,0 +1,42 @@
+ *{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+ }
+ 
+* h1, p{
+    text-align: center;
+}
+
+ body{
+    margin: 0% auto ;
+ }
+.TopNav{
+float: right;
+width: 35%;
+}
+
+.TopNav ul{
+    list-style: none;
+}
+
+.TopNav ul li {
+    display: inline-block;
+    padding: 3%;
+}
+
+.TopNav ul li a:hover{
+    color: red;
+    border-bottom: 2px red solid;
+    padding-bottom: 2.5 px;
+}
+
+header{
+    background: cadetblue;
+    width: 100%;
+    position: absolute;
+}
+
+#titulo{
+    text-align : center;
+}
+
